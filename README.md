@@ -1,6 +1,6 @@
 ### Script to import your Trakt.tv data to JustWatch.
 
-Obs.: This script was created for my personal use, it was created to be useful for me, it was created in 3 hours, so be kind, don't judge it too much.
+Obs.: This script was created for my personal use, it was created to be useful for me, it was created in 5 hours, so be kind, don't judge it too much.
 
 ### What it does do?
 
