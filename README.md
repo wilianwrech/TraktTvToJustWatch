@@ -21,4 +21,4 @@ It is pretty slow, as this script does not use any API, there is not much to do,
 - Done
 
 ### Thanks
-Thanks [Darek Kay]('https://github.com/darekkay') for creating a backup tool for Trakt.tv.
+Thanks [Darek Kay](https://github.com/darekkay) for creating a [backup tool](https://darekkay.com/blog/trakt-tv-backup/) for Trakt.tv.
